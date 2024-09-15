@@ -52,7 +52,7 @@ return(<div className="wrapper">
                             />
                      </div>
                      <div>
-                     <lable>Password:</lable>
+                     <label>Password:</label>
                      <input type="password" 
                             value={password}
                             name='password'
